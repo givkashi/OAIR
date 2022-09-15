@@ -8,7 +8,7 @@
 </details>
 
 <div>
-    <img src="./Block diagram.png" width="49%">
+    <img src="./Block diagram.png" width="90%">
 </div>
 (*Block diagram of the proposed method. Block (a) foreground processing, block (b) background processing, and block (c) foreground-background merging)
 
