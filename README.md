@@ -23,7 +23,7 @@ Coming sooon
 * [CascadePSP](https://github.com/hkchengrex/CascadePSP)
 
 ## Citation
-If you found this code helpful, please consider citing: 
+If you found this article helpful, please consider citing: 
 ```
 @article{naderi2022oair,
   title={OAIR: Object-Aware Image Retargeting Using PSO and Aesthetic Quality Assessment},
