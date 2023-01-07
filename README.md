@@ -21,3 +21,14 @@ Coming sooon
 ## Dataset References
 * [HKU-IS](https://i.cs.hku.hk/~yzyu/research/deep_saliency.html)
 * [CascadePSP](https://github.com/hkchengrex/CascadePSP)
+
+## Citation
+If you found this code helpful, please consider citing: 
+```
+@article{naderi2022oair,
+  title={OAIR: Object-Aware Image Retargeting Using PSO and Aesthetic Quality Assessment},
+  author={Naderi, Mohammad Reza and Givkashi, Mohammad Hossein and Karimi, Nader and Shirani, Shahram and Samavi, Shadrokh},
+  journal={arXiv preprint arXiv:2209.04804},
+  year={2022}
+}
+```
