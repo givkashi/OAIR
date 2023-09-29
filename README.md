@@ -1,6 +1,7 @@
-# OAIR: Object-Aware Image Retargeting Using PSO and Aesthetic Quality Assessment
+# Aesthetic-aware image retargeting based on foreground–background separation and PSO optimization
 
-[[arXiv](https://arxiv.org/abs/2209.04804)]
+Accepted in Multimedia Tools and Applications, Springer Journal
+[[Springer Link](https://link.springer.com/article/10.1007/s11042-023-16959-6)]
 
 <details>
     <summary>Abstract (click to view)</summary>
@@ -15,8 +16,7 @@
 ---
 
 * [Our Dataset](https://github.com/givkashi/OAIR/tree/main/dataset)
-## Our Results
-Coming sooon
+
 
 ## Dataset References
 * [HKU-IS](https://i.cs.hku.hk/~yzyu/research/deep_saliency.html)
@@ -25,10 +25,8 @@ Coming sooon
 ## Citation
 If you found this article helpful, please consider citing: 
 ```
-@article{naderi2022oair,
-  title={OAIR: Object-Aware Image Retargeting Using PSO and Aesthetic Quality Assessment},
-  author={Naderi, Mohammad Reza and Givkashi, Mohammad Hossein and Karimi, Nader and Shirani, Shahram and Samavi, Shadrokh},
-  journal={arXiv preprint arXiv:2209.04804},
-  year={2022}
-}
+Naderi, M.R., Givkashi, M.H., Karimi, N. et al.
+Aesthetic-aware image retargeting based on foreground–background separation and PSO optimization.
+Multimed Tools Appl (2023).
+https://doi.org/10.1007/s11042-023-16959-6
 ```
